@@ -197,7 +197,7 @@ button:hover {
     opacity: 0;
     transform: translateY(100%);
     transition: all 0.3s ease;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent);
+    background: transparent;
 }
 
 .animation-container:hover .animation-controls {
