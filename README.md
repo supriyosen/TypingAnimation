@@ -2,6 +2,8 @@
 
 A web application that creates beautiful typing animations with customizable fonts, colors, and sizes.
 
+**Live Demo**: [https://supriyosen.github.io/TypingAnimation/](https://supriyosen.github.io/TypingAnimation/)
+
 ## Features
 
 - Create custom typing animations with your text
